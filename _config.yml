@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Ashraya Joshi # your name (or website title) here
+logo: "/images/DP.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <br>
+  Data Scientist/Analyst with 2+ years of mixed research and professional experience in data manipulation, machine learning and deep learning. Master's in Data Science from OleMiss. Seeking entry-level opportunity. Experienced in using Python, R, Java, Matlab, and exposed to cloud (AWS).
   <br><br>
-  Second description 
+  Currently, I focus on building end-to-end Machine Learning models. Python, R and Java on the server side, and HTML/CSS, JavaScript or Flask in the client. I am redirecting towards end-to-end Deep Learning models recently.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ray-joshi/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
