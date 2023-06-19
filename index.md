@@ -1,6 +1,6 @@
 ## Research and Projects in Data Science, ML and DL
 
-## Hate Speech Detection
+### Hate Speech Detection
 * Created a tool that predicts whether a given statement is a hate speech (with test acc. of ~71%) to classify tweets.
 * Dataset contains over 110K tweets from various sources.
 * Data preprocessing includes deletion of unused features while labels from different sources were appropriately changed.
@@ -13,7 +13,7 @@
 [View Code](https://github.com/ayushzoc/hatespeechbert)
 
 
-## Data Science Salary Estimator
+### Data Science Salary Estimator
 * Created a tool that estimates data science salaries (with MAE ~ 11K) to help data science enthusiasts negotiate their income while job search.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium.
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
@@ -26,12 +26,12 @@
 
 [View Code](https://github.com/ayushzoc/job_salary_proj)
 
-## Research: Pseudo-Replications Recognition in Image Analysis (Computer Vision)
+### Research: Pseudo-Replications Recognition in Image Analysis (Computer Vision)
 Created algorithms to recognize cell collision in microscopic images with 92% accuracy. Research was performed in collaboration with University of Mississippi Medical Center for Biomedical image analysis. I built several algorithms that classified the correct cell collisions and alert duplications of those collisions if occurred.  
 
 ![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![Matlab](https://img.shields.io/badge/Matlab-white?logo=Matlab) ![R](https://img.shields.io/badge/R-100000?style=flat&logo=R&logoColor=1D62B1&labelColor=FFFFFF&color=FFFFFF) ![TensorFlow](https://img.shields.io/badge/TensorFlow-100000?style=flat&logo=TensorFlow&logoColor=FF8D00&labelColor=FFFFFF&color=FFFFFF) ![Keras](https://img.shields.io/badge/Keras-100000?style=flat&logo=Keras&logoColor=FF1E00&labelColor=FFFFFF&color=FFFFFF) ![OpenCV](https://img.shields.io/badge/OpenCV-100000?style=flat&logo=OpenCV&logoColor=44FF00&labelColor=FFFFFF&color=FFFFFF)
 
-## Rossman Stores Sales Prediction using XGBoost (BI Perspective)
+### Rossman Stores Sales Prediction using XGBoost (BI Perspective)
 * Created a model that predicts the sales of the rossman stores (with mean average precision of 0.13 ~ kaggle score) located in thousands of different places.
 * Data was obtained from kaggle competition of the Rossman Store Sales with an objective to dive deep into the theoretical and practical concepts of XGBoost.
 * Engineered features from the dates given to quantify the age of the store and the time since the competition of the store is open.
@@ -43,7 +43,7 @@ Created algorithms to recognize cell collision in microscopic images with 92% ac
 
 [View Code](https://github.com/ayushzoc/rossmanstoresales)
 
-## Drowsiness Detection System using TensorFlow and OpenCV (Computer Vision, Transfer Learning)
+### Drowsiness Detection System using TensorFlow and OpenCV (Computer Vision, Transfer Learning)
 * A Computer Vision tool to detect drowsiness in drivers. 
 * The system is alerted if the driver is found sleepy/drowsy. 
 * The driver is determined sleepy/drowsy if their eyes remain shut for a small threshold amount of time which triggers an alarm to wake the driver up.
