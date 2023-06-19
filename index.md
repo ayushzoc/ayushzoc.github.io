@@ -1,5 +1,7 @@
 ## Research and Projects in Data Science, ML and DL
 
+---
+
 ### Hate Speech Detection
 * Created a tool that predicts whether a given statement is a hate speech (with test acc. of ~71%) to classify tweets.
 * Dataset contains over 110K tweets from various sources.
