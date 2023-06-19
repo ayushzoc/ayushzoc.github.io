@@ -12,6 +12,7 @@
 
 [View Code](https://github.com/ayushzoc/hatespeechbert)
 
+---
 
 ### Data Science Salary Estimator
 * Created a tool that estimates data science salaries (with MAE ~ 11K) to help data science enthusiasts negotiate their income while job search.
@@ -26,10 +27,14 @@
 
 [View Code](https://github.com/ayushzoc/job_salary_proj)
 
+---
+
 ### Research: Pseudo-Replications Recognition in Image Analysis (Computer Vision)
 Created algorithms to recognize cell collision in microscopic images with 92% accuracy. Research was performed in collaboration with University of Mississippi Medical Center for Biomedical image analysis. I built several algorithms that classified the correct cell collisions and alert duplications of those collisions if occurred.  
 
 ![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![Matlab](https://img.shields.io/badge/Matlab-white?logo=Matlab) ![R](https://img.shields.io/badge/R-100000?style=flat&logo=R&logoColor=1D62B1&labelColor=FFFFFF&color=FFFFFF) ![TensorFlow](https://img.shields.io/badge/TensorFlow-100000?style=flat&logo=TensorFlow&logoColor=FF8D00&labelColor=FFFFFF&color=FFFFFF) ![Keras](https://img.shields.io/badge/Keras-100000?style=flat&logo=Keras&logoColor=FF1E00&labelColor=FFFFFF&color=FFFFFF) ![OpenCV](https://img.shields.io/badge/OpenCV-100000?style=flat&logo=OpenCV&logoColor=44FF00&labelColor=FFFFFF&color=FFFFFF)
+
+---
 
 ### Rossman Stores Sales Prediction using XGBoost (BI Perspective)
 * Created a model that predicts the sales of the rossman stores (with mean average precision of 0.13 ~ kaggle score) located in thousands of different places.
@@ -43,6 +48,8 @@ Created algorithms to recognize cell collision in microscopic images with 92% ac
 
 [View Code](https://github.com/ayushzoc/rossmanstoresales)
 
+---
+
 ### Drowsiness Detection System using TensorFlow and OpenCV (Computer Vision, Transfer Learning)
 * A Computer Vision tool to detect drowsiness in drivers. 
 * The system is alerted if the driver is found sleepy/drowsy. 
@@ -54,5 +61,3 @@ Created algorithms to recognize cell collision in microscopic images with 92% ac
 ![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![TensorFlow](https://img.shields.io/badge/TensorFlow-100000?style=flat&logo=TensorFlow&logoColor=FF8D00&labelColor=FFFFFF&color=FFFFFF) ![Keras](https://img.shields.io/badge/Keras-100000?style=flat&logo=Keras&logoColor=FF1E00&labelColor=FFFFFF&color=FFFFFF) ![OpenCV](https://img.shields.io/badge/OpenCV-100000?style=flat&logo=OpenCV&logoColor=44FF00&labelColor=FFFFFF&color=FFFFFF) ![Transfer](https://img.shields.io/badge/Transfer_Learning-white?logo=TransferLearning)
 
 [View Code](https://github.com/ayushzoc/Facial_Detection)
-
----
