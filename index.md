@@ -1,7 +1,5 @@
 ## Research and Projects in Data Science, ML and DL
 
-### Category Name 1 
-
 ## Hate Speech Detection
 * Created a tool that predicts whether a given statement is a hate speech (with test acc. of ~71%) to classify tweets.
 * Dataset contains over 110K tweets from various sources.
@@ -56,11 +54,5 @@ Created algorithms to recognize cell collision in microscopic images with 92% ac
 ![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![TensorFlow](https://img.shields.io/badge/TensorFlow-100000?style=flat&logo=TensorFlow&logoColor=FF8D00&labelColor=FFFFFF&color=FFFFFF) ![Keras](https://img.shields.io/badge/Keras-100000?style=flat&logo=Keras&logoColor=FF1E00&labelColor=FFFFFF&color=FFFFFF) ![OpenCV](https://img.shields.io/badge/OpenCV-100000?style=flat&logo=OpenCV&logoColor=44FF00&labelColor=FFFFFF&color=FFFFFF) ![Transfer](https://img.shields.io/badge/Transfer_Learning-white?logo=TransferLearning)
 
 [View Code](https://github.com/ayushzoc/Facial_Detection)
----
-
-
-
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
